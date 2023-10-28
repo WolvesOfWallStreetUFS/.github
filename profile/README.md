@@ -1,7 +1,7 @@
 
-# Wolfs of Wall Street
+# Wolves of Wall Street
 
-Wolfs of Wall Street is a small team of computer science students from the University of Free State in South Africa. We are passionate about using technology to build a better future.
+Wolves of Wall Street is a small team of computer science students from the University of Free State in South Africa. We are passionate about using technology to build a better future.
 
 We are always looking for new and innovative ways to use technology to make a positive impact on the world.
 
